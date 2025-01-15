@@ -3755,6 +3755,11 @@ textarea.form-control-lg {
   align-items: center;
   justify-content: space-between;
 }
+.navbar-logo {
+  height: 3em;
+  padding: 0;
+  margin: 0;
+}
 .navbar-brand {
   padding-top: var(--bs-navbar-brand-padding-y);
   padding-bottom: var(--bs-navbar-brand-padding-y);
