@@ -1,29 +1,24 @@
 # Website-Mooyi Portfolio
 
-🚀 Quick Start
-Clone this repository and run the application on your local server to showcase the portfolio.
+🚀 **Quick Start**  
+Clone the repository and open `index.html` to view the personal portfolio.
 
-🔧 Installation
+🔧 **Installation**  
+1. Clone the repo:  
+   `git clone https://github.com/Mooyi07/website-mooyi.git`
+2. Navigate to the project directory:  
+   `cd website-mooyi`
+3. Open `index.html` in your preferred browser.
 
-Clone the repo: git clone https://github.com/Mooyi07/website-mooyi.git
+📚 **Documentation**  
+For a deeper dive into the project and its functionality, refer to the documentation.
 
-Navigate to the directory: cd website-mooyi
+📜 **License**  
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Mooyi07/website-mooyi/blob/main/LICENSE) file for more details.
 
-Open index.html in your browser to view the website.
+🧑‍💻 **Contributors**  
+- Lanz Joseph T. Villanueva (Developer)
 
-📚 Documentation
-For more detailed information on how the portfolio works, check the documentation.
-
-📜 License
-MIT License. See LICENSE for details.
-
-🧑‍💻 Contributors
-
-Lanz Joseph T. Villanueva (Developer)
-
-💬 Contact
-
-Email: mooyi07@gmail.com
-
-Visit: mooyi.pages.dev
-
+💬 **Contact**  
+- Email: [mooyi07@gmail.com](mailto:mooyi07@gmail.com)  
+- Portfolio: [mooyi.pages.dev](https://mooyi.pages.dev)
