@@ -20,5 +20,5 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 - Lanz Joseph T. Villanueva (Developer)
 
 💬 **Contact**  
-- Email: [mooyi07@gmail.com](mailto:mooyi07@gmail.com)  
+- Email: [ljt.villanueva@gmail.com](mailto:ljt.villanueva@gmail.com)  
 - Portfolio: [mooyi.pages.dev](https://mooyi.pages.dev)
